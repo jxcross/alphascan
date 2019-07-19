@@ -2,9 +2,11 @@
 
 ## Ubuntu 16.04, 17.10
 
-### 1) libelf-dev 설치 (ubuntu 16.04 only) (=> libelf-devel, elfutils-libelf-devel 은 설치하지 않아도 됨)
+### 1) libelf-dev 설치 (ubuntu 16.04 only) 
+(=> libelf-devel, elfutils-libelf-devel 은 설치하지 않아도 됨)
 
 $ sudo apt-get install libelf-dev 
+
 (password: 1234)
 
 ## 2) dkms 설치
