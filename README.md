@@ -20,8 +20,11 @@ $ wget  -O disp.zip   http://bit.ly/32Lmaf8
 $ git clone https://github.com/jxcross/alphascan
 
 ### 3-2) 명령어 실행
+
 $ unzip disp.zip
+
 $ chmod u+x *.run
+
 $ sudo ./displaylink-driver-4.2.29.run
  
 
