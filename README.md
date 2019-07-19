@@ -33,12 +33,17 @@ $ sudo ./displaylink-driver-4.2.29.run
 [4.2버전] 드라이버 링크
 
 http://bit.ly/32Lmaf8
+
 또는
+
 https://drive.google.com/file/d/1GA9fQV-IBezwwJGO1m9RVAJObntG5Hu-/view?usp=sharing
 
 [5.2 버전] 드라이버 링크 
+
 http://bit.ly/2JTuEbv
+
 또는
+
 https://drive.google.com/file/d/1X99s5fTZQ_Y7_eS0bZ_l9HLiD-gO6fsE/view?usp=sharing
 
 참고) 윈도우즈용 : http://bit.ly/2NcaBEU
