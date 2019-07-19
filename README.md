@@ -14,7 +14,9 @@ $ sudo apt-get install dkms
 
 ### 3-1) DisplayLink USB Graphics Software for Ubuntu 4.2.zip 다운로드 (http://alphascan.co.kr 에서도 가능)
 $ wget  -O disp.zip   http://bit.ly/32Lmaf8
+
 또는 
+
 $ git clone https://github.com/jxcross/alphascan
 
 ### 3-2) 명령어 실행
