@@ -21,7 +21,7 @@ $ git clone https://github.com/jxcross/alphascan
 
 ### 3-2) 명령어 실행
 
-$ unzip disp.zip
+$ unzip *.zip
 
 $ chmod u+x *.run
 
